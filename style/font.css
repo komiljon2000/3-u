@@ -1,0 +1,47 @@
+@font-face {
+    font-family: 'Rounded';
+    src: url(../fonts/MPLUSRounded1c-Bold.ttf);
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: 'Revalia';
+    src: url(../fonts/Revalia-Regular.ttf);
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Ruda';
+    src: url(../fonts/Ruda-Regular.ttf);
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url(../fonts/Roboto-Black.ttf);
+    font-weight: 900;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url(../fonts/Roboto-Bold.ttf);
+    font-weight: 700;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url(../fonts/Roboto-Light.ttf);
+    font-weight: 100;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url(../fonts/Roboto-Medium.ttf);
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url(../fonts/Roboto-Regular.ttf);
+    font-weight: 400;
+}
